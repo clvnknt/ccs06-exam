@@ -52,6 +52,7 @@
                     <label>Finals Grades</label>
                     <input type="number" name="s3_finalsGrade" class="form-control">
                 </div>
+                </div>
             <div class="row">
                 <label>Student: <strong>{{ $student_4 }}</strong></label>
                 <div class="col col-md-4">
@@ -62,6 +63,7 @@
                     <label>Finals Grades</label>
                     <input type="number" name="s4_finalsGrade" class="form-control">
                 </div>
+                </div>
             <div class="row">
                 <label>Student: <strong>{{ $student_5 }}</strong></label>
                 <div class="col col-md-4">
@@ -71,6 +73,7 @@
                 <div class="col col-md-4">
                     <label>Finals Grades</label>
                     <input type="number" name="s5_finalsGrade" class="form-control">
+                </div>
                 </div>
             </div>
 
