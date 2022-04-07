@@ -49,7 +49,7 @@
                     <input type="number" name="s3_midtermGrade" class="form-control">
                 </div>
                 <div class="col col-md-4">
-                    <label>Final Grades</label>
+                    <label>Finals Grades</label>
                     <input type="number" name="s3_finalsGrade" class="form-control">
                 </div>
             <div class="row">
@@ -59,7 +59,7 @@
                     <input type="number" name="s4_midtermGrade" class="form-control">
                 </div>
                 <div class="col col-md-4">
-                    <label>Final Grades</label>
+                    <label>Finals Grades</label>
                     <input type="number" name="s4_finalsGrade" class="form-control">
                 </div>
             <div class="row">
@@ -69,7 +69,7 @@
                     <input type="number" name="s5_midtermGrade" class="form-control">
                 </div>
                 <div class="col col-md-4">
-                    <label>Final Grades</label>
+                    <label>Finals Grades</label>
                     <input type="number" name="s5_finalsGrade" class="form-control">
                 </div>
             </div>
